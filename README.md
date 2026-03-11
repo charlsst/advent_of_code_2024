@@ -1,4 +1,2 @@
-# advent_of_code_2023
+# advent_of_code_2024
 My stupid silly solutions to AoC2024
-
-I'll probably do like 3 days because i cba
